@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there!
+Hello there!👋
 I'm Justin Andrei D. Arpon, a BSIT Graduate (Class of 2025) from University of Cebu – Banilad Campus.
 I'm a developer passionate about building functional, user-friendly applications and continuously improving my skills in both frontend and backend development.
 
